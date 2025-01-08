@@ -11,7 +11,7 @@ permalink: /portfolio/
 <tbody>
 <tr>
 <td style="text-align: center;"><a href="https://drive.google.com/drive/folders/1d0i0WvUZpzM9fTF8wNlJzhDEBv8uoFAp?usp=sharing">FroggyFrog</a></td>
-<td style="text-align: center;">A University project made a game over the course of a trimester in UE5 with Helena Barbillon and Mathis Ollier. This serves as a proof of concept for a plateformer where you play as a frog and can use your tongue as a grappling hook. </td>
+<td style="text-align: center;">A University project game made over the course of a trimester in UE5 with Helena Barbillon and Mathis Ollier. This serves as a proof of concept for a plateformer where you play as a frog and can use your tongue as a grappling hook. </td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://tea-enjoyers.itch.io/doomension">Doomention</a></td>
