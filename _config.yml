@@ -35,7 +35,7 @@ header_pages:
 
 
 # Build settings
-theme: jekyll-theme-chirpy
+theme: hyde
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
