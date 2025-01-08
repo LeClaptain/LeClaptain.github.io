@@ -35,7 +35,7 @@ header_pages:
 
 
 # Build settings
-theme: hyde
+theme: midnight
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
